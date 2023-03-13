@@ -1284,3 +1284,73 @@ body {
 	left: -2400px;
 }
 
+
+.whatsapp {
+  background-color: #25D366; /* color de fondo */
+  border: none; /* borde sin estilo */
+  color: #fff; /* color del texto */
+  padding: 5px 10px; /* padding interior */
+  text-align: center; /* centrar el texto */
+  text-decoration: none; /* sin subrayado */
+  display: inline-block; /* muestra como elemento en línea */
+  font-size: 18px; /* tamaño de fuente */
+  font-weight: bold; /* texto en negrita */
+  cursor: pointer; /* cursor con efecto de clic */
+  border-radius: 5px; /* borde redondeado */
+  transition: all 0.3s ease-in-out; /* transición suave */
+}
+
+.whatsapp:hover {
+  background-color: #128C7E; /* cambio de color en hover */
+}
+
+.whatsapp i {
+  margin-right: 5px; /* espacio entre icono y texto */
+}
+
+.instagram {
+  background-color: #f90064; /* color de fondo */
+  border: none; /* borde sin estilo */
+  color: #fff; /* color del texto */
+  padding: 5px 10px; /* padding interior */
+  text-align: center; /* centrar el texto */
+  text-decoration: none; /* sin subrayado */
+  display: inline-block; /* muestra como elemento en línea */
+  font-size: 18px; /* tamaño de fuente */
+  font-weight: bold; /* texto en negrita */
+  cursor: pointer; /* cursor con efecto de clic */
+  border-radius: 5px; /* borde redondeado */
+  transition: all 0.3s ease-in-out; /* transición suave */
+}
+
+.instagram:hover {
+  background-color: #6c2f47; /* cambio de color en hover */
+}
+
+.instagram i {
+  margin-right: 5px; /* espacio entre icono y texto */
+}
+
+.maps {
+  background-color: #17869e; /* color de fondo */
+  border: none; /* borde sin estilo */
+  color: #fff; /* color del texto */
+  padding: 5px 10px; /* padding interior */
+  text-align: center; /* centrar el texto */
+  text-decoration: none; /* sin subrayado */
+  display: inline-block; /* muestra como elemento en línea */
+  font-size: 18px; /* tamaño de fuente */
+  font-weight: bold; /* texto en negrita */
+  cursor: pointer; /* cursor con efecto de clic */
+  border-radius: 5px; /* borde redondeado */
+  transition: all 0.3s ease-in-out; /* transición suave */
+}
+
+.maps:hover {
+  background-color: #194a55; /* cambio de color en hover */
+}
+
+.maps i {
+  margin-right: 5px; /* espacio entre icono y texto */
+}
+
